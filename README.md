@@ -12,7 +12,7 @@ I primarily code on the frontend, but try to engage with my first love, the back
 * 📙  Next up, I'd like build a backend with Go
 * 🤝  I'm open to collaborating on open source projects
 * 🧑‍🎓  I studied Computer Science + Business Administration
-* 👍  Fun fact: I was a product manager for many years, most recently at Facebook/Instagram, before making the crazy decision to follow my passion!
+* 👍  Fun fact: I was a product manager for many years, most recently at Facebook/Instagram, before making the crazy decision to follow my passion for engineering!
 
 ### Skills
 
